@@ -42,7 +42,8 @@
     <!-- Compilation -->
     <airlift.version>0.7</airlift.version>
     <!-- ALPN library targeted to Java 7 -->
-    <alpn.jdk7.version>7.1.2.v20141202</alpn.jdk7.version>
+    <alpn.jdk7.version>7.6.21.v20160908</alpn.jdk7.version>
+    <alpn.jdk8.version>8.2.0.v20160908</alpn.jdk8.version>
     <android.version>4.1.1.4</android.version>
     <animal.sniffer.version>1.15</animal.sniffer.version>
     <apache.http.version>4.2.2</apache.http.version>
